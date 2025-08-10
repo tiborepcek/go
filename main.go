@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"go-snippets/snippets"
+	"github.com/tiborepcek/go/snippets"
 
 	"github.com/shirou/gopsutil/v3/cpu"
 )

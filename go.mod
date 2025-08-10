@@ -1,4 +1,4 @@
-module go-snippets
+module github.com/tiborepcek/go
 
 go 1.23.4
 
